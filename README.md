@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
-
+# Name: Harikrishnan R
+# RegNo:24900636
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution

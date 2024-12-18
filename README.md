@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# Name: Harikrishnan R
+# RegNo:24900636
 
 # Aim : 
 
